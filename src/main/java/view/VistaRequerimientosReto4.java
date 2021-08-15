@@ -19,7 +19,7 @@ public class VistaRequerimientosReto4{
     public static final ControladorRequerimientosReto4 controlador = new ControladorRequerimientosReto4();
 
     public static void requerimiento1(){
-        JFrame frame = new JFrame("Primer Requerimiento");
+        JFrame frame = new JFrame("My Primer Requerimiento");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new GridLayout(2, 1));
 
@@ -59,7 +59,7 @@ public class VistaRequerimientosReto4{
     }
 
     public static void requerimiento2(){
-        JFrame frame = new JFrame("Segundo Requerimiento");
+        JFrame frame = new JFrame("My Segundo Requerimiento");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new GridLayout(2, 1));
 
@@ -98,7 +98,7 @@ public class VistaRequerimientosReto4{
     }
 
     public static void requerimiento3(){
-        JFrame frame = new JFrame("Tercer Requerimiento");
+        JFrame frame = new JFrame("My Tercer Requerimiento");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setLayout(new GridLayout(2, 1));
 
